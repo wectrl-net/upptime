@@ -18,9 +18,9 @@ status-website:
   cname: status.wectrl.io
   # baseUrl: /your-repo-name
   logoUrl: https://wectrl.io/static/wectrl.io/wectrl.io-full-horizontal-white.svg
-  name: Upptime
-  introTitle: "**wectrl.io services Upptime** "
-  introMessage: This is a sample status page which uses **real-time** data from our services.
+  name: Services Upptime
+  # introTitle: "**wectrl.io services Upptime** "
+  # introMessage: This is a sample status page which uses **real-time** data from our services.
   # navbar:
   #   - title: Status
   #     href: /
