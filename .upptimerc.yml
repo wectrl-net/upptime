@@ -6,37 +6,24 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: Hacker News Broken
-    url: https://news-broken.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: Landing page
     url: https://wectrl.io
   - name: Authentication
     url: https://auth.wectrl.io
 
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wectrl.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://wectrl.io/static/wectrl.io/wectrl.io-full-horizontal-white.svg
   name: Upptime
   introTitle: "**wectrl.io services Upptime** "
   introMessage: This is a sample status page which uses **real-time** data from our services.
-  navbar:
-    - title: Status
-      href: /
+  # navbar:
+  #   - title: Status
+  #     href: /
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
 
