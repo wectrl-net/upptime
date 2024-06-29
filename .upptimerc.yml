@@ -6,10 +6,8 @@ sites:
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Hacker News Broken
+    url: https://news-broken.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     expectedStatusCodes:
