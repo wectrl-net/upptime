@@ -22,19 +22,19 @@
     "url": "https://wectrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/wectrl.io.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 594,
-    "timeDay": 595,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 580,
+    "timeDay": 574,
+    "timeWeek": 580,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-06-30": 0
+      "2024-06-30": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://auth.wectrl.io",
     "icon": "https://icons.duckduckgo.com/ip3/auth.wectrl.io.ico",
     "slug": "authentication",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1061,
-    "timeWeek": 1100,
-    "timeMonth": 1100,
-    "timeYear": 1100,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 1118,
+    "timeDay": 1097,
+    "timeWeek": 1118,
+    "timeMonth": 1118,
+    "timeYear": 1118,
     "dailyMinutesDown": {
-      "2024-06-30": 0
+      "2024-06-30": 9
     }
   }
 ]
