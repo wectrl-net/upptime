@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 155,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 105,
+    "timeDay": 87,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wectrl.io.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 580,
-    "timeDay": 574,
-    "timeWeek": 580,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 558,
+    "timeDay": 485,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.wectrl.io.ico",
     "slug": "authentication",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 1118,
-    "timeDay": 1097,
-    "timeWeek": 1118,
-    "timeMonth": 1118,
-    "timeYear": 1118,
-    "dailyMinutesDown": {
-      "2024-06-30": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1129,
+    "timeDay": 971,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
+    "dailyMinutesDown": {}
   }
 ]
