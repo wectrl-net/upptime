@@ -19,8 +19,8 @@
   },
   {
     "name": "Landing page",
-    "url": "https://wectrl.io",
-    "icon": "https://icons.duckduckgo.com/ip3/wectrl.io.ico",
+    "url": "https://wectrl.net",
+    "icon": "https://icons.duckduckgo.com/ip3/wectrl.net.ico",
     "slug": "landing-page",
     "status": "up",
     "uptime": "96.30%",
@@ -58,8 +58,8 @@
   },
   {
     "name": "Authentication",
-    "url": "https://auth.wectrl.io",
-    "icon": "https://icons.duckduckgo.com/ip3/auth.wectrl.io.ico",
+    "url": "https://auth.wectrl.net",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.wectrl.net.ico",
     "slug": "authentication",
     "status": "up",
     "uptime": "98.25%",

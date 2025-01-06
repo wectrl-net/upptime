@@ -1,5 +1,5 @@
 # Change these first
-owner: wectrl-io # Your GitHub organization or username, where this repository lives
+owner: wectrl-net # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -7,19 +7,19 @@ sites:
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
   - name: Landing page
-    url: https://wectrl.io
+    url: https://wectrl.net
   - name: Authentication
-    url: https://auth.wectrl.io
+    url: https://auth.wectrl.net
 
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.wectrl.io
+  cname: status.wectrl.net
   # baseUrl: /your-repo-name
-  logoUrl: https://wectrl.io/static/wectrl.io/wectrl.io-full-horizontal-white.svg
+  logoUrl: https://wectrl.net/static/wwectrl.netwwectrl.netfull-horizontal-white.svg
   name: Services Upptime
-  # introTitle: "**wectrl.io services Upptime** "
+  # introTitle: "**wectrl.net services Upptime** "
   # introMessage: This is a sample status page which uses **real-time** data from our services.
   # navbar:
   #   - title: Status
@@ -31,4 +31,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 commitMessages:
   commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "upptime@wectrl.io"
+  commitAuthorEmail: "upptime@wectrl.net"

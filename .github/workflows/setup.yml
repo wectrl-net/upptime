@@ -69,4 +69,4 @@ jobs:
           publish_dir: "site/status-page/__sapper__/export/"
           force_orphan: "false"
           user_name: "Upptime Bot"
-          user_email: "upptime@wectrl.io"
+          user_email: "upptime@wectrl.net"
