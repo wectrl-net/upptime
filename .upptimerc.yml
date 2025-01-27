@@ -10,7 +10,8 @@ sites:
     url: https://wectrl.net
   - name: Authentication
     url: https://auth.wectrl.net
-
+  - name: Forecast Solar
+    url: https://forecast.solar/
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
