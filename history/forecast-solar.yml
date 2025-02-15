@@ -1,7 +1,7 @@
 url: https://forecast.solar/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-15T03:35:14.840Z
+status: up
+code: 200
+responseTime: 1427
+lastUpdated: 2025-02-15T03:44:32.807Z
 startTime: 2025-01-27T09:01:24.084Z
 generator: Upptime <https://github.com/upptime/upptime>
