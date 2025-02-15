@@ -99,19 +99,19 @@
     "url": "https://forecast.solar/",
     "icon": "https://icons.duckduckgo.com/ip3/forecast.solar.ico",
     "slug": "forecast-solar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 818,
-    "timeWeek": 1117,
-    "timeMonth": 1223,
-    "timeYear": 1223,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1232,
+    "timeDay": 1123,
+    "timeWeek": 1151,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-15": 9
     }
   }
 ]
