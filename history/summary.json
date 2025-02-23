@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wectrl.net.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "57.97%",
+    "uptime": "96.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.85%",
     "time": 608,
-    "timeDay": 464,
-    "timeWeek": 579,
+    "timeDay": 501,
+    "timeWeek": 563,
     "timeMonth": 550,
     "timeYear": 608,
     "dailyMinutesDown": {
@@ -64,14 +64,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.wectrl.net.ico",
     "slug": "authentication",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "58.00%",
+    "uptime": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.00%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.39%",
     "time": 1400,
-    "timeDay": 1058,
-    "timeWeek": 1214,
+    "timeDay": 1032,
+    "timeWeek": 1168,
     "timeMonth": 1214,
     "timeYear": 1400,
     "dailyMinutesDown": {
@@ -101,9 +101,9 @@
     "url": "https://forecast.solar/",
     "icon": "https://icons.duckduckgo.com/ip3/forecast.solar.ico",
     "slug": "forecast-solar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,6 +112,8 @@
     "timeWeek": 1087,
     "timeMonth": 1188,
     "timeYear": 1188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   }
 ]
