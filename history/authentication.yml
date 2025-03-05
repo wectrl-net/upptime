@@ -1,7 +1,7 @@
 url: https://auth.wectrl.net
-status: up
-code: 200
-responseTime: 805
-lastUpdated: 2025-03-05T08:34:09.185Z
+status: down
+code: 503
+responseTime: 417
+lastUpdated: 2025-03-05T08:54:38.576Z
 startTime: 2024-06-29T08:40:16.308Z
 generator: Upptime <https://github.com/upptime/upptime>
