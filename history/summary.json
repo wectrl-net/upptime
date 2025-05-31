@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wectrl.net.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "73.88%",
+    "uptime": "73.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.88%",
+    "uptimeYear": "73.68%",
     "time": 604,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-05-31": 23,
+      "2025-05-31": 1341,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -184,9 +184,9 @@
     "url": "https://forecast.solar/",
     "icon": "https://icons.duckduckgo.com/ip3/forecast.solar.ico",
     "slug": "forecast-solar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,6 +195,8 @@
     "timeWeek": 1254,
     "timeMonth": 1216,
     "timeYear": 1218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-31": 0
+    }
   }
 ]
